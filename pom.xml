@@ -98,12 +98,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Release</name>
-	      <url>http://172.31.47.238:8081/repository/sunny-release/</url>
+	      <url>http://13.233.129.248:8081/repository/Demo-Release/</url>
 	    </repository>
 	    <snapshotRepository>
       	      <id>nexus</id>
       	      <name>Snapshot</name>
-      	      <url>http://172.31.47.238:8081/repository/sunny-sanapshot/</url>
+      	      <url>http://13.233.129.248:8081/repository/Demo-Snapshot/</url>
     	    </snapshotRepository>
 	</distributionManagement>
 	
