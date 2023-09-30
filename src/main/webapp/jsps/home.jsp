@@ -38,9 +38,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9001112233
-		devopstrainingblr@gmail.com
+		raghu.ram111316@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Vasu Technologies</a>
+		<a href="mailto:raghu.ram111316@gmail.com">Mail to Vasu Technologies</a>
 	</span>
 </div>
 <hr>
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Vasu Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://vasutechnologies.com/">Vasu Technologies,Bengaluru</a> </small></p>
+<p align=center><small>Copyrights 2023 by <a href="http://vasutechnologies.com/">Vasu Technologies,Bengaluru</a> </small></p>
 
 </body>
 </html>
